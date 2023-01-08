@@ -1,4 +1,8 @@
 <!--git-cheatsheet-for-github  -->
+![download](https://user-images.githubusercontent.com/37225357/211215565-3b1439c5-04ea-41ce-ac6e-7409fd7173f9.jpg)
+
+
+
 #   WHY Git?
 [Git](https://github.com/) is a version control system. Its original purpose was to help groups of developers work collaboratively on big software projects. Git manages the evolution of a set of files – called a repository – in a sane, highly structured way.
 
