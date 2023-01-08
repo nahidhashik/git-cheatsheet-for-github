@@ -32,7 +32,7 @@ With GitHub, developers can build code, track changes, and innovate solutions to
 This site was built using For [windows download](https://gitforwindows.org/) Git bash from here
 
 # Create Repository in Your Github
-[see this tutrial](https://www.youtube.com/watch?v=2rPqWnGW_ns&t=7s)
+[Watch this tutrial](https://www.youtube.com/watch?v=2rPqWnGW_ns&t=7s)
 
 
 # Git bash Commands for Github
