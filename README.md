@@ -32,6 +32,44 @@ With GitHub, developers can build code, track changes, and innovate solutions to
 This site was built using For [windows download](https://gitforwindows.org/) Git bash from here
 
 
+# Git bash Commands for Github
+
+# Basic
+
+**git clone**
+**ls**
+**cd**
+**touch**
+**git add .**
+**git commit -m ""**
+**git push origin main**
+
+# Status Check
+
+**git status**
+**git log**
+
+# Branch Create
+
+**git branch**
+**git branch new branch name**
+**git checkout**
+
+# Pull Request
+
+**git pull origin branch name**
+
+# Merge Request
+
+**git merge branch name**
+
+# Note
+Every changes you neeed to three commands
+**git add .**
+**git commmit -m " "**
+**git push origin branch Name**
+
+
 # Conclusion
 Fork, pull request, and merge – are three features that make GitHub so powerful. If you wanted to contribute to an open-source project you had to manually download the project’s source code, make your changes locally, create a list of changes called a “patch” and then e-mail the patch to the project’s maintainer. The maintainer would then have to evaluate this patch, possibly sent by a total stranger, and decide whether to merge the changes.
 
