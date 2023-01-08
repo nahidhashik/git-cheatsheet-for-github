@@ -73,7 +73,7 @@ Every changes you neeed to three commands
 
 **git commmit -m " "**
 
-**git push origin branch Name**
+**git push origin BranchName**
 
 
 
