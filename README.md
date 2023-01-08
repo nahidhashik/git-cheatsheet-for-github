@@ -1,10 +1,10 @@
 <!--git-cheatsheet-for-github  -->
 #   WHY Git?
 [Git](https://github.com/) is a version control system. Its original purpose was to help groups of developers work collaboratively on big software projects. Git manages the evolution of a set of files – called a repository – in a sane, highly structured way.
-[github](https://github.com/)
+
 
 # WHY Github?
-Understanding GitHub isn't complicated, I think! But at first, we have to understand Git. Well, Git is an open-source version control system that was started by Linus Torvalds—the same person who created Linux.
+Understanding [GitHub](https://github.com/) isn't complicated, I think! But at first, we have to understand Git. Well, Git is an open-source version control system that was started by Linus Torvalds—the same person who created Linux.
 
 Version control system means for example when developers create something such as an app, they frequently change the code and releasing new versions up to and after the first official (non-beta) release, this system always keeps these revisions straight, storing the modifications in a central repository.
 
@@ -28,10 +28,11 @@ It reduces the risk of duplicative or conflicting work and can help decrease pro
 With GitHub, developers can build code, track changes, and innovate solutions to problems that might arise during the site development process simultaneously.
  Non-developers can also use it to create, edit, and update website content, which Carpenter demonstrates in her tutorial.
 
- 
+ # INSTALLATION
+This site was built using For [windows download](https://gitforwindows.org/) Git bash from here
+
+
 # Conclusion
 Fork, pull request, and merge – are three features that make GitHub so powerful. If you wanted to contribute to an open-source project you had to manually download the project’s source code, make your changes locally, create a list of changes called a “patch” and then e-mail the patch to the project’s maintainer. The maintainer would then have to evaluate this patch, possibly sent by a total stranger, and decide whether to merge the changes.
 
 
-# INSTALLATION
-This site was built using For [windows download](https://gitforwindows.org/) Git bash from here
