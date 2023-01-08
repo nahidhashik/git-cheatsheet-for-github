@@ -66,8 +66,11 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 # Note
 Every changes you neeed to three commands
 **git add .**
+
 **git commmit -m " "**
+
 **git push origin branch Name**
+
 
 
 # Conclusion
