@@ -37,16 +37,23 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 # Basic
 
 **git clone**
+
 **ls**
+
 **cd**
+
 **touch**
+
 **git add .**
+
 **git commit -m ""**
+
 **git push origin main**
 
 # Status Check
 
 **git status**
+
 **git log**
 
 # Branch Create
@@ -55,7 +62,7 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 
 **git branch NewBranchName**
 
-**git checkout**
+**git checkout BranchName**
 
 
 # Pull Request
