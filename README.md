@@ -52,16 +52,19 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 # Branch Create
 
 **git branch**
-**git branch new branch name**
+
+**git branch NewBranchName**
+
 **git checkout**
+
 
 # Pull Request
 
-**git pull origin branch name**
+**git pull origin BranchName**
 
 # Merge Request
 
-**git merge branch name**
+**git merge BranchName**
 
 # Note
 Every changes you neeed to three commands
