@@ -52,7 +52,7 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 
 **cd**
 
-**mkdir DirectoryName**
+<!-- **mkdir DirectoryName** -->
 
 **touch**
 
@@ -67,6 +67,14 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 **git status**
 
 **git log**
+
+# Create Directory
+
+**mkdir DirectoryName**
+
+# Delete directory
+
+**rmdir DirectoryName**
 
 # Branch Create
 
