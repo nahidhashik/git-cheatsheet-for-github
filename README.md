@@ -73,6 +73,8 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 
 **touch FileName**
 
+![Capture](https://user-images.githubusercontent.com/37225357/214260939-b0fdd17a-f088-4472-baec-d97eaefea8f3.PNG)
+
 # Delete file
 
 **rm FileName**
