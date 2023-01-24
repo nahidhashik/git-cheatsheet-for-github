@@ -50,11 +50,12 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 
 **ls**
 
-**cd**
+**cd DirectoryName**
 
+**cd ..**
 <!-- **mkdir DirectoryName** -->
 
-**touch**
+<!-- **touch** -->
 
 **git add .**
 
