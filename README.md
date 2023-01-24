@@ -68,6 +68,14 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 
 **git log**
 
+# Create file
+
+**touch FileName**
+
+# Delete file
+
+**rm FileName**
+
 # Create Directory
 
 **mkdir DirectoryName**
