@@ -151,6 +151,7 @@ user@localhost:~$ touch NewFile
 ```
 user@localhost:~$ rm NewFile
 ```
+![rm](https://user-images.githubusercontent.com/37225357/217623668-9501c37a-65b3-4ae4-9de6-8b4e07508000.PNG)
 
 # Create Directory
 
