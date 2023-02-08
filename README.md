@@ -53,7 +53,7 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 
 **git --version**
 
-``` user@localhost:~$ cd ```
+```user@localhost:~$ cd```
 
 ![version](https://user-images.githubusercontent.com/37225357/217600317-f33ad1c2-bcfa-4717-b55e-f888e7a51594.PNG)
 
