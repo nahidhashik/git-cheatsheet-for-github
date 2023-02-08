@@ -114,6 +114,8 @@ user@localhost:~$ git commit -m "your message"
 ```
 user@localhost:~$ git push origin main
 ```
+![pushorigin](https://user-images.githubusercontent.com/37225357/217622125-d43fef32-0c5a-41f9-9eb0-38bf4c84b500.PNG)
+
 
 # Status Check
 
