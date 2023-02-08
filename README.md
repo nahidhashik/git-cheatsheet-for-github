@@ -170,6 +170,8 @@ user@localhost:~$ mkdir new_dir
 ```
 user@localhost:~$ rm new_dir
 ```
+![rmdir](https://user-images.githubusercontent.com/37225357/217624932-3ebb6577-135e-4369-8eca-d0e09d88c362.PNG)
+
 
 # Branch Create
 
