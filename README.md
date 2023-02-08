@@ -188,6 +188,8 @@ user@localhost:~$ git branch
 ```
 user@localhost:~$ git branch seond_branch
 ```
+![newbranch](https://user-images.githubusercontent.com/37225357/217627198-a4dc9daa-85bf-4980-bc4a-5df5234717ee.PNG)
+
 
 **git checkout BranchName**
 
