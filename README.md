@@ -81,6 +81,9 @@ user@localhost:~$ ls
 ```
 user@localhost:~$ cd new_dir
 ```
+![mkdir](https://user-images.githubusercontent.com/37225357/217619785-07d08aa8-0441-4b87-9ed7-9ecfb0980b16.PNG)
+
+
 
 **cd ..**
 
