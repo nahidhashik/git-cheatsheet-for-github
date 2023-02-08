@@ -213,18 +213,24 @@ Every changes you neeed to three commands
 ```
 user@localhost:~$ git add .
 ```
+![add](https://user-images.githubusercontent.com/37225357/217620283-8749e290-dce6-4503-9f92-cebab1b18b0e.PNG)
+
 
 **git commmit -m " "**
 
 ```
 user@localhost:~$ git commit -m "your message"
 ```
+![commit](https://user-images.githubusercontent.com/37225357/217621928-1ec7bd82-03b3-4edd-8ec6-4c9a2745cc5c.PNG)
+
 
 **git push origin BranchName**
 
 ```
 user@localhost:~$ git push origin main
 ```
+![pushorigin](https://user-images.githubusercontent.com/37225357/217622125-d43fef32-0c5a-41f9-9eb0-38bf4c84b500.PNG)
+
 
 # License
 
