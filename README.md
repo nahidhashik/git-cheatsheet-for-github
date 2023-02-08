@@ -217,6 +217,8 @@ user@localhost:~$ git pull origin second_branch
 ```
 user@localhost:~$ git merge second_branch
 ```
+![merge](https://user-images.githubusercontent.com/37225357/217632173-4eba79bb-6d5f-47c9-b8f7-104492ce18bf.PNG)
+
 
 # Note
 Every changes you neeed to three commands
