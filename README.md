@@ -90,6 +90,7 @@ user@localhost:~$ cd new_dir
 ```
 user@localhost:~$ cd ..
 ```
+![cdplus](https://user-images.githubusercontent.com/37225357/217621041-f4fb8dd1-9ba0-43b5-a2e6-21b6a64254cd.PNG)
 <!-- **mkdir DirectoryName** -->
 
 <!-- **touch** -->
