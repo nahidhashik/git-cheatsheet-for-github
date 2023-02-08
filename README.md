@@ -99,6 +99,7 @@ user@localhost:~$ cd ..
 ```
 user@localhost:~$ git add .
 ```
+![add](https://user-images.githubusercontent.com/37225357/217620283-8749e290-dce6-4503-9f92-cebab1b18b0e.PNG)
 
 **git commit -m ""**
 
@@ -134,7 +135,7 @@ user@localhost:~$ git log
 user@localhost:~$ touch NewFile
 ```
 
-![Capture](https://user-images.githubusercontent.com/37225357/214260939-b0fdd17a-f088-4472-baec-d97eaefea8f3.PNG)
+![touch](https://user-images.githubusercontent.com/37225357/217620506-0f860c76-8ad3-4080-864a-ed56e85b538b.PNG)
 
 # Delete file
 
