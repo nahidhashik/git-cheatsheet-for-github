@@ -73,6 +73,8 @@ user@localhost:~$ git clone
 ```
 user@localhost:~$ ls
 ```
+![ls](https://user-images.githubusercontent.com/37225357/217614737-83596dc8-9a81-4812-8e56-c8a911557895.PNG)
+
 
 **cd DirectoryName**
 
