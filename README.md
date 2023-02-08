@@ -126,7 +126,7 @@ Every changes you neeed to three commands
 
 # License
 
-[MIT-LICENSE.md]()
+[MIT-LICENSE.md](https://github.com/nahidhashik/git-cheatsheet-for-github/blob/main/LICENSE.md)
 
 
 
