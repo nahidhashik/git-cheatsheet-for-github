@@ -54,16 +54,28 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 **git --version**
 
 ```
-user@localhost:~$ cd
+user@localhost:~$ git --version
 ```
 
 ![version](https://user-images.githubusercontent.com/37225357/217600317-f33ad1c2-bcfa-4717-b55e-f888e7a51594.PNG)
 
 **git clone**
 
+```
+user@localhost:~$ git clone
+```
+
 **ls**
 
+```
+user@localhost:~$ ls
+```
+
 **cd DirectoryName**
+
+```
+user@localhost:~$ cd
+```
 
 **cd ..**
 <!-- **mkdir DirectoryName** -->
