@@ -160,6 +160,8 @@ user@localhost:~$ rm NewFile
 ```
 user@localhost:~$ mkdir new_dir
 ```
+![mkdir](https://user-images.githubusercontent.com/37225357/217624212-6c7b9ef8-7500-49df-80be-2fb407b48fd6.PNG)
+
 
 # Delete directory
 
