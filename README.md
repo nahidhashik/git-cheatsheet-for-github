@@ -124,12 +124,15 @@ user@localhost:~$ git push origin main
 ```
 user@localhost:~$ git status
 ```
+![status](https://user-images.githubusercontent.com/37225357/217622648-9b274a44-ff57-4638-acf4-e957c8214b4f.PNG)
 
 **git log**
 
 ```
 user@localhost:~$ git log
 ```
+![log](https://user-images.githubusercontent.com/37225357/217622662-4f53e44c-e4c9-46e5-9cf2-d711b2eda41a.PNG)
+
 
 # Create file
 
