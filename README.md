@@ -83,25 +83,53 @@ user@localhost:~$ cd
 ```
 
 **cd ..**
+
+```
+user@localhost:~$ cd ..
+```
 <!-- **mkdir DirectoryName** -->
 
 <!-- **touch** -->
 
 **git add .**
 
+```
+user@localhost:~$ git add .
+```
+
 **git commit -m ""**
 
-**git push origin main**
+```
+user@localhost:~$ git commit -m "your message"
+```
+
+**git push origin BranchName**
+
+```
+user@localhost:~$ git push origin main
+```
 
 # Status Check
 
 **git status**
 
+```
+user@localhost:~$ git status
+```
+
 **git log**
+
+```
+user@localhost:~$ git log
+```
 
 # Create file
 
 **touch FileName**
+
+```
+user@localhost:~$ touch NewFile
+```
 
 ![Capture](https://user-images.githubusercontent.com/37225357/214260939-b0fdd17a-f088-4472-baec-d97eaefea8f3.PNG)
 
@@ -109,39 +137,83 @@ user@localhost:~$ cd
 
 **rm FileName**
 
+```
+user@localhost:~$ rm NewFile
+```
+
 # Create Directory
 
 **mkdir DirectoryName**
+
+```
+user@localhost:~$ mkdir new_dir
+```
 
 # Delete directory
 
 **rmdir DirectoryName**
 
+```
+user@localhost:~$ rm new_dir
+```
+
 # Branch Create
 
 **git branch**
 
+```
+user@localhost:~$ git branch
+```
+
 **git branch NewBranchName**
 
+```
+user@localhost:~$ git branch seond_branch
+```
+
 **git checkout BranchName**
+
+```
+user@localhost:~$ git checkout second_branch
+```
 
 
 # Pull Request
 
 **git pull origin BranchName**
 
+```
+user@localhost:~$ git pull origin second_branch
+```
+
 # Merge Request
 
 **git merge BranchName**
+
+```
+user@localhost:~$ git merge second_branch
+```
 
 # Note
 Every changes you neeed to three commands
 
 **git add .**
 
+```
+user@localhost:~$ git add .
+```
+
 **git commmit -m " "**
 
+```
+user@localhost:~$ git commit -m "your message"
+```
+
 **git push origin BranchName**
+
+```
+user@localhost:~$ git push origin main
+```
 
 # License
 
