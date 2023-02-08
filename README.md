@@ -43,6 +43,9 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 # Create Repository in Your Github
 [Watch This Tutorial](https://www.youtube.com/watch?v=2rPqWnGW_ns&t=7s)
 
+# Using github from windows git
+[Watch This Tutorial]()
+
 
 # Git bash Commands for Github
 
