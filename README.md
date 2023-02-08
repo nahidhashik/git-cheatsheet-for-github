@@ -51,6 +51,8 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 
 # Basic
 
+**git --version**
+
 **git clone**
 
 **ls**
