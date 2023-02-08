@@ -33,6 +33,7 @@ With GitHub, developers can build code, track changes, and innovate solutions to
 
  # INSTALLATION
 This site was built using For [windows download](https://gitforwindows.org/) Git bash from here
+[Watch This Tutorial](https://www.youtube.com/watch?v=QkgiXDvpMGc)
 
 
 # Create Github Account
