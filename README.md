@@ -124,6 +124,10 @@ Every changes you neeed to three commands
 
 **git push origin BranchName**
 
+# License
+
+[MIT-LICENSE.md]()
+
 
 
 # Conclusion
