@@ -207,6 +207,8 @@ user@localhost:~$ git checkout second_branch
 ```
 user@localhost:~$ git pull origin second_branch
 ```
+![pull](https://user-images.githubusercontent.com/37225357/217631631-44fe8cb9-5758-4dd4-be11-b8ba3fe8e5ca.PNG)
+
 
 # Merge Request
 
