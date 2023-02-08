@@ -65,6 +65,9 @@ user@localhost:~$ git --version
 user@localhost:~$ git clone
 ```
 
+![clone](https://user-images.githubusercontent.com/37225357/217614357-0e4b15fb-123c-4ec0-a834-56b04271d97a.PNG)
+
+
 **ls**
 
 ```
