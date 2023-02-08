@@ -180,6 +180,8 @@ user@localhost:~$ rm new_dir
 ```
 user@localhost:~$ git branch
 ```
+![branch](https://user-images.githubusercontent.com/37225357/217625557-e40e35ce-8069-4c6e-bae2-6a9ee7a4d672.PNG)
+
 
 **git branch NewBranchName**
 
