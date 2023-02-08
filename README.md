@@ -107,6 +107,7 @@ user@localhost:~$ git add .
 ```
 user@localhost:~$ git commit -m "your message"
 ```
+![commit](https://user-images.githubusercontent.com/37225357/217621928-1ec7bd82-03b3-4edd-8ec6-4c9a2745cc5c.PNG)
 
 **git push origin BranchName**
 
