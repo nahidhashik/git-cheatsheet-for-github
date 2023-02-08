@@ -79,7 +79,7 @@ user@localhost:~$ ls
 **cd DirectoryName**
 
 ```
-user@localhost:~$ cd
+user@localhost:~$ cd new_dir
 ```
 
 **cd ..**
