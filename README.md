@@ -196,6 +196,8 @@ user@localhost:~$ git branch seond_branch
 ```
 user@localhost:~$ git checkout second_branch
 ```
+![checkout](https://user-images.githubusercontent.com/37225357/217627721-a239252c-301a-4fb8-9b19-266aefad88b3.PNG)
+
 
 
 # Pull Request
