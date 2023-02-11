@@ -54,6 +54,7 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 # Basic
 
 **git --version**
+
 You can check your current version of Git by running the git --version command in a terminal (Linux, macOS) or command prompt (Windows)
 
 ```
