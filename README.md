@@ -65,6 +65,8 @@ user@localhost:~$ git --version
 
 **git clone**
 
+If you want to get a copy of an existing Git repository — for example, a project you'd like to contribute to — the command you need is git clone
+
 ```
 user@localhost:~$ git clone
 ```
