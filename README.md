@@ -46,6 +46,8 @@ This site was built using For [windows download](https://gitforwindows.org/) Git
 # Using Github from Windows git
 [Watch This Tutorial](https://www.youtube.com/watch?v=pYYm9Qr0y_U&t=903s)
 
+# How to Host a Website on GitHub Pages for Free
+[Watch This Tutorial](https://www.youtube.com/watch?v=xKTY3wfxhtc&t=2s)
 
 # Git bash Commands for Github
 
