@@ -76,6 +76,8 @@ user@localhost:~$ git clone
 
 **ls**
 
+The ls command lists the current directory contents and by default will not show hidden files
+
 ```
 user@localhost:~$ ls
 ```
