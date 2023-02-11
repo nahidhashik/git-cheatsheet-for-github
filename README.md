@@ -21,7 +21,7 @@ GitHub is a code hosting platform for Coders and Non-coders to work together on 
 
 
 # Benefits of GitHub?
-Why!GitHub? There are several reasons for that.
+Why! GitHub? There are several reasons for that.
 
 It enables slick and easy collaboration with version control.
 This allows you to work on code with anyone from anywhere.
